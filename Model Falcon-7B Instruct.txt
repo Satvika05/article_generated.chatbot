@@ -1,0 +1,8 @@
+Model: Falcon-7B Instruct  
+Developer: Technology Innovation Institute (TII), UAE  
+Source: https://huggingface.co/tiiuae/falcon-7b-instruct  
+Model Size: 7 billion parameters  
+Why Chosen: Falcon performs well in instruction-following tasks and generates high-quality, factual text.  
+Strengths: Tuned for chat/instruction use, optimized for low hallucination, good context awareness.  
+Usage: Loaded via Hugging Face Transformers for article generation.  
+Note: Free for commercial use.

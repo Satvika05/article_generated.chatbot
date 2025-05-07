@@ -1,0 +1,7 @@
+Model: GPT-J-6B  
+Developer: EleutherAI  
+Source: https://huggingface.co/EleutherAI/gpt-j-6B  
+Model Size: 6 billion parameters  
+Why Chosen: GPT-J is known for strong text generation capabilities with high coherence. It supports open-domain content creation and can be used offline if needed.  
+Strengths: Human-like generation, supports Hugging Face, good for general-purpose article creation.  
+Usage: Accessed via Hugging Face Transformers library (no local training needed).
